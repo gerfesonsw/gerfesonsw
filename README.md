@@ -1,5 +1,3 @@
-## Hi Gerfeson 👋
-
 
 # Gerfeson Alves de Oliveira
 
