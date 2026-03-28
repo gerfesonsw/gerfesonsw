@@ -5,9 +5,3 @@ Engenheiro de Produção em formação focado em:
 - Automação de processos
 - Business Intelligence
 
-## Projetos em destaque
-
-📊 Dashboard Power BI – Produção de mel no Brasil  
-🤖 Automação de processos com UiPath  
-📄 Extração de dados de PDFs com Python  
-📈 Análise de indicadores operacionais
